@@ -14,7 +14,7 @@ There are 11314 documents in the training set and 7532 documents in the testing 
 
 First, I download the raw 20newsgroups dataset, then preprocess the dataset, split the train set and test set. Finally, I construct the GBDT model using LightGBM framework, set the train set, validation set and test set. Through turning lgb parameters, the final test results are shown as below:
 
-![1555240966511](C:\Users\dby_freedom\AppData\Roaming\Typora\typora-user-images\1555240966511.png)
+![1555240966511](https://raw.githubusercontent.com/duboya/20Newsgroups/master/results/gbdt_res.png)
 
 
 
